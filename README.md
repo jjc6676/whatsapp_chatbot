@@ -45,11 +45,6 @@ The system is divided into multiple subsystems:
    - Locks the conversation into an ordering state
    - Creates draft orders
 
-# Download the Workflow
-
-You can download the full workflow JSON here:
-
-https://linktr.ee/anasmhdy
 
 ## Who is this useful for?
 
